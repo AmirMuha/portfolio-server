@@ -1,5 +1,15 @@
 node_modules
 dist/
 .env
-
-.env
+.env.development
+.env.production
+src/uploads/temp/zip*
+src/uploads/temp/file*
+src/uploads/zip*
+src/uploads/file*
+.env.production
+.env.development
+/src/uploads/**/file*
+/src/uploads/file*
+/src/uploads/zip*
+/src/uploads/**/zip*
