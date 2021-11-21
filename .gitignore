@@ -1,10 +1,5 @@
 node_modules
-# Keep environment variables out of version control
 dist/
 .env
-.env.production
-.env.development
-/src/uploads/**/file*
-/src/uploads/file*
-/src/uploads/zip*
-/src/uploads/**/zip*
+
+.env
